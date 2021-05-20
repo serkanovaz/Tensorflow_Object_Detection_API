@@ -1,5 +1,5 @@
 # SOBE
- Yapay zeka destekli iki boyutlu oyun.
+ Canlı görüntü üzerinden tanımlı tehlikeli nesne takibi ve otomatik çağrı oluşturma.
  
 ## Özet
 Tanımlı nesnelerin canlı görüntüler üzerinden taraması yapılır ve tespit edilmesi durumunda otomatik çağrı oluşturulur. Bu projede çağrılar e-posta üzerinden yapılmaktadır. Google tarafından geliştirilmiş Tensorflow Object Detection API ile kendi nesne sınıfımız oluşturulmuştur. Görüntü üzerindeki taramalarda Faster R-CNN algoritması kullanılmıştır. Üniversite bitirme projesi olarak geliştirilmiştir.
@@ -20,3 +20,5 @@ Tanımlı nesnelerin canlı görüntüler üzerinden taraması yapılır ve tesp
  * Eğitim, 70131 adımda gerçekleşti.
  * 8238 öğrenme, 2745 test aşamasında olmak üzere 10983 resim kullanıldı.
  * Canlı görüntü üzerinden nesne tespit edilmesi durumunda o anki görüntüler fotoğraf olarak kayıt altına alınır.
+ * Nesne tespiti durumunda anlık olarak otomatik e-posta oluşturur ve gönderimi sağlar.
+ * Oluşturulan e-posta içeriğine o anki durumun görüntüleri fotoğraf olarak aktarılır.
