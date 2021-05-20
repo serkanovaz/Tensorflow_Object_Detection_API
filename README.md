@@ -22,3 +22,4 @@ Tanımlı nesnelerin canlı görüntüler üzerinden taraması yapılır ve tesp
  * Canlı görüntü üzerinden nesne tespit edilmesi durumunda o anki görüntüler fotoğraf olarak kayıt altına alınır.
  * Nesne tespiti durumunda anlık olarak otomatik e-posta oluşturur ve gönderimi sağlar.
  * Oluşturulan e-posta içeriğine o anki durumun görüntüleri fotoğraf olarak aktarılır.
+ * Geliştirme Tarihi : 2020
