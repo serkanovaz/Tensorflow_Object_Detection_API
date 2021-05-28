@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>e1346.jpg</filename>
+	<path>C:\tensorflowtest3\models\research\object_detection\images\test\e1346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>170</width>
+		<height>96</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>11</ymin>
+			<xmax>107</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>
