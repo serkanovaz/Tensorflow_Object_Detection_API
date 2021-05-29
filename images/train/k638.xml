@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>k638.jpg</filename>
+	<path>C:\tensorflowtest3\models\research\object_detection\images\train\k638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>571</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>154</ymin>
+			<xmax>437</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

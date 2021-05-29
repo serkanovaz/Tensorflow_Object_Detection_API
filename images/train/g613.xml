@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>g613.jpg</filename>
+	<path>C:\tensorflowtest3\models\research\object_detection\images\train\g613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1169</width>
+		<height>794</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>74</ymin>
+			<xmax>1127</xmax>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+</annotation>
