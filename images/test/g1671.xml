@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>g1671.jpg</filename>
+	<path>C:\tensorflowtest3\models\research\object_detection\images\test\g1671.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>186</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>82</ymin>
+			<xmax>134</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

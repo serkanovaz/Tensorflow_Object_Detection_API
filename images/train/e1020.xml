@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>e1020.jpg</filename>
+	<path>C:\tensorflowtest3\models\research\object_detection\images\train\e1020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>44</ymin>
+			<xmax>433</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>
