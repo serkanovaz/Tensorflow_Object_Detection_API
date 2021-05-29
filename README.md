@@ -2,7 +2,7 @@
  Canlı görüntü üzerinden tanımlı tehlikeli nesne takibi ve otomatik çağrı oluşturma.
  
 ## Özet
-Tanımlı nesnelerin canlı görüntüler üzerinden taraması yapılır ve tespit edilmesi durumunda otomatik çağrı oluşturulur. Bu projede çağrılar e-posta üzerinden yapılmaktadır. Google tarafından geliştirilmiş Tensorflow Object Detection API ile kendi nesne sınıfımız oluşturulmuştur. Görüntü üzerindeki taramalarda Faster R-CNN algoritması kullanılmıştır. Üniversite bitirme projesi olarak geliştirilmiştir.
+Tanımlı nesnelerin canlı görüntüler üzerinden taraması yapılır ve tespit edilmesi durumunda otomatik çağrı oluşturulur. Bu projede çağrılar e-posta üzerinden yapılmaktadır. Google tarafından geliştirilmiş Tensorflow Object Detection API ile kendi nesne sınıfımız oluşturulmuştur. Görüntü üzerindeki taramalarda Faster R-CNN algoritması kullanılmıştır. Üniversite bitirme projesi olarak geliştirilmiştir. Github 1000 dosya limitinden dolayı eğitim ve test kümelerinde kullanılan resimler images.rar içerisindedir. 
 
 ## Kullanılan Teknolojiler
  * Tensorflow-Tensorflow API
