@@ -18,7 +18,7 @@ Tanımlı nesnelerin canlı görüntüler üzerinden taraması yapılır ve tesp
 ## Özellikler
  * Bıçak, tabanca, el bombası olmak üzere 3 nesne takibi yapar.
  * Eğitim, 70131 adımda gerçekleşti.
- * 8238 öğrenme, 2745 test aşamasında olmak üzere 10983 resim kullanıldı.
+ * 8238 öğrenme, 2745 test aşamasında olmak üzere 10983 resim kullanıldı(Paylaşılan veri setindeki resim sayısı 8373).
  * Canlı görüntü üzerinden nesne tespit edilmesi durumunda o anki görüntüler fotoğraf olarak kayıt altına alınır.
  * Nesne tespiti durumunda anlık olarak otomatik e-posta oluşturur ve gönderimi sağlar.
  * Oluşturulan e-posta içeriğine o anki durumun görüntüleri fotoğraf olarak aktarılır.
